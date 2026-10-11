@@ -1,8 +1,10 @@
 # First ASP.NET Core Microservice with Web API CRUD Operations on a MongoDB Database
 
+<img src="https://www.yogihosting.com/wp-content/uploads/2026/10/First-ASP-NET-Core-Microservice.png" alt="First ASP.NET Core Microservice"  title="First ASP.NET Core Microservice">
+
 In this tutorial we will build our first Microservice in ASP.NET Core which will perform CRUD operations on a MongoDB database. The CRUD operations will be performed though a Web API method. This Microservice will form a part of a drone pizza delivery application.
 
-**This repository is updated to .NET 8.0**
+**This repository is updated to .NET 10.0**
 
 # Tutorial Contents
 
