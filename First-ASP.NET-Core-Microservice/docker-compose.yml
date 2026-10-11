@@ -1,0 +1,25 @@
+services:
+  ccui:
+    image: ${DOCKER_REGISTRY-}ccui
+    build:
+      context: .
+      dockerfile: CCUI/Dockerfile
+
+  commandcenter:
+    image: ${DOCKER_REGISTRY-}commandcenter
+    build:
+      context: .
+      dockerfile: CommandCenter/Dockerfile
+    depends_on:
+      - mongo
+
+  mongo:
+    image: mongo
+    container_name: mongo
+    ports:
+      - 27017:27017
+    volumes:
+      - mongodbdata:/data/db
+
+volumes:
+  mongodbdata:

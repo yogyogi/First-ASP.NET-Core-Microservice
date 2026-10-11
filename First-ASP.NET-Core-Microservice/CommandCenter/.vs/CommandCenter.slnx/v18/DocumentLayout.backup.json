@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices-new\\First-ASP.NET-Core-Microservice-main\\CommandCenter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30F79382-BBA9-4323-B3D4-832770A48D22}|..\\CCUI\\CCUI.csproj|d:\\yogesh\\seo\\yogihosting\\new\\microservices-new\\first-asp.net-core-microservice-main\\ccui\\pages\\editorder.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F79382-BBA9-4323-B3D4-832770A48D22}|..\\CCUI\\CCUI.csproj|d:\\yogesh\\seo\\yogihosting\\new\\microservices-new\\first-asp.net-core-microservice-main\\ccui\\pages\\orders.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F79382-BBA9-4323-B3D4-832770A48D22}|..\\CCUI\\CCUI.csproj|d:\\yogesh\\seo\\yogihosting\\new\\microservices-new\\first-asp.net-core-microservice-main\\ccui\\infrastructure\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6340C747-2317-A9AA-E610-3846F3956BE5}|CommandCenter.csproj|d:\\yogesh\\seo\\yogihosting\\new\\microservices-new\\first-asp.net-core-microservice-main\\commandcenter\\mongodb\\mongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6340C747-2317-A9AA-E610-3846F3956BE5}|CommandCenter.csproj|solutionrelative:mongodb\\mongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F79382-BBA9-4323-B3D4-832770A48D22}|..\\CCUI\\CCUI.csproj|d:\\yogesh\\seo\\yogihosting\\new\\microservices-new\\first-asp.net-core-microservice-main\\ccui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F79382-BBA9-4323-B3D4-832770A48D22}|..\\CCUI\\CCUI.csproj|d:\\yogesh\\seo\\yogihosting\\new\\microservices-new\\first-asp.net-core-microservice-main\\ccui\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6340C747-2317-A9AA-E610-3846F3956BE5}|CommandCenter.csproj|d:\\yogesh\\seo\\yogihosting\\new\\microservices-new\\first-asp.net-core-microservice-main\\commandcenter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6340C747-2317-A9AA-E610-3846F3956BE5}|CommandCenter.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6340C747-2317-A9AA-E610-3846F3956BE5}|CommandCenter.csproj|d:\\yogesh\\seo\\yogihosting\\new\\microservices-new\\first-asp.net-core-microservice-main\\commandcenter\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6340C747-2317-A9AA-E610-3846F3956BE5}|CommandCenter.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6340C747-2317-A9AA-E610-3846F3956BE5}|CommandCenter.csproj|d:\\yogesh\\seo\\yogihosting\\new\\microservices-new\\first-asp.net-core-microservice-main\\commandcenter\\entity\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6340C747-2317-A9AA-E610-3846F3956BE5}|CommandCenter.csproj|solutionrelative:entity\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6340C747-2317-A9AA-E610-3846F3956BE5}|CommandCenter.csproj|d:\\yogesh\\seo\\yogihosting\\new\\microservices-new\\first-asp.net-core-microservice-main\\commandcenter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6340C747-2317-A9AA-E610-3846F3956BE5}|CommandCenter.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6340C747-2317-A9AA-E610-3846F3956BE5}|CommandCenter.csproj|d:\\yogesh\\seo\\yogihosting\\new\\microservices-new\\first-asp.net-core-microservice-main\\commandcenter\\mongodb\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6340C747-2317-A9AA-E610-3846F3956BE5}|CommandCenter.csproj|solutionrelative:mongodb\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6340C747-2317-A9AA-E610-3846F3956BE5}|CommandCenter.csproj|d:\\yogesh\\seo\\yogihosting\\new\\microservices-new\\first-asp.net-core-microservice-main\\commandcenter\\entity\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6340C747-2317-A9AA-E610-3846F3956BE5}|CommandCenter.csproj|solutionrelative:entity\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6340C747-2317-A9AA-E610-3846F3956BE5}|CommandCenter.csproj|d:\\yogesh\\seo\\yogihosting\\new\\microservices-new\\first-asp.net-core-microservice-main\\commandcenter\\entity\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6340C747-2317-A9AA-E610-3846F3956BE5}|CommandCenter.csproj|solutionrelative:entity\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dtos.cs",
+              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices-new\\First-ASP.NET-Core-Microservice-main\\CCUI\\Infrastructure\\Dtos.cs",
+              "RelativeDocumentMoniker": "..\\CCUI\\Infrastructure\\Dtos.cs",
+              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices-new\\First-ASP.NET-Core-Microservice-main\\CCUI\\Infrastructure\\Dtos.cs",
+              "RelativeToolTip": "..\\CCUI\\Infrastructure\\Dtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T12:05:05.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditOrder.razor",
+              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices-new\\First-ASP.NET-Core-Microservice-main\\CCUI\\Pages\\EditOrder.razor",
+              "RelativeDocumentMoniker": "..\\CCUI\\Pages\\EditOrder.razor",
+              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices-new\\First-ASP.NET-Core-Microservice-main\\CCUI\\Pages\\EditOrder.razor",
+              "RelativeToolTip": "..\\CCUI\\Pages\\EditOrder.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-04T12:03:45.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Orders.razor",
+              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices-new\\First-ASP.NET-Core-Microservice-main\\CCUI\\Pages\\Orders.razor",
+              "RelativeDocumentMoniker": "..\\CCUI\\Pages\\Orders.razor",
+              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices-new\\First-ASP.NET-Core-Microservice-main\\CCUI\\Pages\\Orders.razor",
+              "RelativeToolTip": "..\\CCUI\\Pages\\Orders.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-04T11:49:52.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices-new\\First-ASP.NET-Core-Microservice-main\\CCUI\\OrderService.cs",
+              "RelativeDocumentMoniker": "..\\CCUI\\OrderService.cs",
+              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices-new\\First-ASP.NET-Core-Microservice-main\\CCUI\\OrderService.cs",
+              "RelativeToolTip": "..\\CCUI\\OrderService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T11:48:25.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices-new\\First-ASP.NET-Core-Microservice-main\\CCUI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\CCUI\\Program.cs",
+              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices-new\\First-ASP.NET-Core-Microservice-main\\CCUI\\Program.cs",
+              "RelativeToolTip": "..\\CCUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T11:43:33.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices-new\\First-ASP.NET-Core-Microservice-main\\CommandCenter\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices-new\\First-ASP.NET-Core-Microservice-main\\CommandCenter\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T13:13:36.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices-new\\First-ASP.NET-Core-Microservice-main\\CommandCenter\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices-new\\First-ASP.NET-Core-Microservice-main\\CommandCenter\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwB0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T11:33:57.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices-new\\First-ASP.NET-Core-Microservice-main\\CommandCenter\\Entity\\Order.cs",
+              "RelativeDocumentMoniker": "Entity\\Order.cs",
+              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices-new\\First-ASP.NET-Core-Microservice-main\\CommandCenter\\Entity\\Order.cs",
+              "RelativeToolTip": "Entity\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T13:17:41.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices-new\\First-ASP.NET-Core-Microservice-main\\CommandCenter\\MongoDB\\Extensions.cs",
+              "RelativeDocumentMoniker": "MongoDB\\Extensions.cs",
+              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices-new\\First-ASP.NET-Core-Microservice-main\\CommandCenter\\MongoDB\\Extensions.cs",
+              "RelativeToolTip": "MongoDB\\Extensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA4AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T12:57:11.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MongoRepository.cs",
+              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices-new\\First-ASP.NET-Core-Microservice-main\\CommandCenter\\MongoDB\\MongoRepository.cs",
+              "RelativeDocumentMoniker": "MongoDB\\MongoRepository.cs",
+              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices-new\\First-ASP.NET-Core-Microservice-main\\CommandCenter\\MongoDB\\MongoRepository.cs",
+              "RelativeToolTip": "MongoDB\\MongoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T12:53:33.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices-new\\First-ASP.NET-Core-Microservice-main\\CommandCenter\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices-new\\First-ASP.NET-Core-Microservice-main\\CommandCenter\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-03T12:40:55.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices-new\\First-ASP.NET-Core-Microservice-main\\CommandCenter\\Entity\\IRepository.cs",
+              "RelativeDocumentMoniker": "Entity\\IRepository.cs",
+              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices-new\\First-ASP.NET-Core-Microservice-main\\CommandCenter\\Entity\\IRepository.cs",
+              "RelativeToolTip": "Entity\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T12:15:02.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices-new\\First-ASP.NET-Core-Microservice-main\\CommandCenter\\Entity\\IEntity.cs",
+              "RelativeDocumentMoniker": "Entity\\IEntity.cs",
+              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices-new\\First-ASP.NET-Core-Microservice-main\\CommandCenter\\Entity\\IEntity.cs",
+              "RelativeToolTip": "Entity\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T12:14:03.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

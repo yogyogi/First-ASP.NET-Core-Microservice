@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "CommandCenter.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\CCUI\\CCUI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

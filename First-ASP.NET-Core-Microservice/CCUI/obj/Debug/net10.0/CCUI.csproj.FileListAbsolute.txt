@@ -1,0 +1,172 @@
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\EmbeddedAttribute.cs
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\ValidatableTypeAttribute.cs
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\CCUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\CCUI.AssemblyInfoInputs.cache
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\CCUI.AssemblyInfo.cs
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\CCUI.csproj.CoreCompileInputs.cache
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\CCUI.MvcApplicationPartsAssemblyInfo.cache
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\bin\Debug\net10.0\appsettings.Development.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\bin\Debug\net10.0\appsettings.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\bin\Debug\net10.0\CCUI.staticwebassets.runtime.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\bin\Debug\net10.0\CCUI.staticwebassets.endpoints.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\bin\Debug\net10.0\CCUI.exe
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\bin\Debug\net10.0\CCUI.deps.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\bin\Debug\net10.0\CCUI.runtimeconfig.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\bin\Debug\net10.0\CCUI.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\bin\Debug\net10.0\CCUI.pdb
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\scopedcss\Components\Layout\ReconnectModal.razor.rz.scp.css
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\scopedcss\bundle\CCUI.styles.css
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\scopedcss\projectbundle\CCUI.bundle.scp.css
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\f3o8ajggdc-{0}-khy4lop6wu-khy4lop6wu.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\k7mgc210gv-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\wjrvwlkgf9-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\0w8f212y2u-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\g4mii56x2r-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\ici0mecxus-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\wahuk5z0kr-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\rqs3ec2e3i-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\92czwja59b-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\lqv30p7k3b-{0}-ub07r2b239-ub07r2b239.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\1xr73p2mkg-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\ru8mll3mfg-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\u7i5qwkvos-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\x9irewxevf-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\8bo5lqq7tz-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\71mi0tw2p5-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\ukvi6idx0x-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\lb3r5iijx8-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\vhve6vuq1c-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\3s0c0kw4s8-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\8onkug54l5-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\ycvkidv8tl-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\ys19gpxb1h-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\e8zvacgixl-{0}-06098lyss8-06098lyss8.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\xkyeq5ux9t-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\2hneylqvw7-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\pp52ppkhhb-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\tkpqu92mhp-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\r2k25j1mgv-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\qr8hzkxjgu-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\pnlqkdxqvx-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\asf217mm7o-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\hcbhgawegi-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\nbiqdnh572-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\sh7miqbgoo-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\we0grl5c8p-{0}-493y06b0oq-493y06b0oq.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\vio221aror-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\e2t79pzc2z-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\qhehceaeq0-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\fhb3ypz0uu-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\srkz2yvzqr-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\dq1rdmt441-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\qxasbjsexh-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\4pfbkunpvy-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\tcw4laaesk-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\nutepqvmf6-{0}-abdmv1u4y3-abdmv1u4y3.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\5ymw9r6tt0-{0}-wyu7y4jcvb-wyu7y4jcvb.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\hiwuwal7e0-{0}-wfr2hj6447-wfr2hj6447.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\ymvr89ip6s-{0}-4u61kfj8u4-4u61kfj8u4.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\compressed\1utdmmsorq-{0}-4u61kfj8u4-4u61kfj8u4.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\staticwebassets.build.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\staticwebassets.development.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\swae.build.ex.cache
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\CCUI.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\refint\CCUI.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\CCUI.pdb
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\CCUI.genruntimeconfig.cache
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CCUI\obj\Debug\net10.0\ref\CCUI.dll
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\bin\Debug\net10.0\appsettings.Development.json
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\bin\Debug\net10.0\appsettings.json
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\bin\Debug\net10.0\CCUI.staticwebassets.endpoints.json
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\bin\Debug\net10.0\CCUI.staticwebassets.runtime.json
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\bin\Debug\net10.0\CCUI.exe
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\bin\Debug\net10.0\CCUI.deps.json
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\bin\Debug\net10.0\CCUI.runtimeconfig.json
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\bin\Debug\net10.0\CCUI.dll
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\bin\Debug\net10.0\CCUI.pdb
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\EmbeddedAttribute.cs
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\ValidatableTypeAttribute.cs
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\CCUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\CCUI.AssemblyInfoInputs.cache
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\CCUI.AssemblyInfo.cs
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\CCUI.csproj.CoreCompileInputs.cache
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\CCUI.MvcApplicationPartsAssemblyInfo.cache
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\scopedcss\Components\Layout\ReconnectModal.razor.rz.scp.css
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\scopedcss\bundle\CCUI.styles.css
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\scopedcss\projectbundle\CCUI.bundle.scp.css
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\f3o8ajggdc-{0}-khy4lop6wu-khy4lop6wu.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\k7mgc210gv-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\wjrvwlkgf9-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\0w8f212y2u-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\g4mii56x2r-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\ici0mecxus-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\wahuk5z0kr-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\rqs3ec2e3i-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\92czwja59b-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\lqv30p7k3b-{0}-ub07r2b239-ub07r2b239.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\1xr73p2mkg-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\ru8mll3mfg-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\u7i5qwkvos-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\x9irewxevf-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\8bo5lqq7tz-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\71mi0tw2p5-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\ukvi6idx0x-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\lb3r5iijx8-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\vhve6vuq1c-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\3s0c0kw4s8-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\8onkug54l5-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\ycvkidv8tl-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\ys19gpxb1h-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\e8zvacgixl-{0}-06098lyss8-06098lyss8.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\xkyeq5ux9t-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\2hneylqvw7-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\pp52ppkhhb-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\tkpqu92mhp-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\r2k25j1mgv-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\qr8hzkxjgu-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\pnlqkdxqvx-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\asf217mm7o-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\hcbhgawegi-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\nbiqdnh572-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\sh7miqbgoo-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\we0grl5c8p-{0}-493y06b0oq-493y06b0oq.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\vio221aror-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\e2t79pzc2z-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\qhehceaeq0-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\fhb3ypz0uu-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\srkz2yvzqr-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\dq1rdmt441-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\qxasbjsexh-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\4pfbkunpvy-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\tcw4laaesk-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\nutepqvmf6-{0}-abdmv1u4y3-abdmv1u4y3.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\5ymw9r6tt0-{0}-wyu7y4jcvb-wyu7y4jcvb.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\hiwuwal7e0-{0}-wfr2hj6447-wfr2hj6447.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\ymvr89ip6s-{0}-4u61kfj8u4-4u61kfj8u4.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\compressed\1utdmmsorq-{0}-4u61kfj8u4-4u61kfj8u4.gz
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\staticwebassets.build.json
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\staticwebassets.development.json
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\swae.build.ex.cache
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\CCUI.dll
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\refint\CCUI.dll
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\CCUI.pdb
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\CCUI.genruntimeconfig.cache
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\obj\Debug\net10.0\ref\CCUI.dll

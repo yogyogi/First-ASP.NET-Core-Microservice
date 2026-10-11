@@ -1,0 +1,97 @@
+wwwroot\app.css
+wwwroot\favicon.png
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+Components\Layout\ReconnectModal.razor.js
+C:\Users\Avita\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.11\build\..\_framework\blazor.web.js
+C:\Users\Avita\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.11\build\..\_framework\blazor.server.js
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\app.css
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI\Components\Layout\ReconnectModal.razor.js
+C:\Users\Avita\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.11\_framework\blazor.web.js
+C:\Users\Avita\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.11\_framework\blazor.server.js

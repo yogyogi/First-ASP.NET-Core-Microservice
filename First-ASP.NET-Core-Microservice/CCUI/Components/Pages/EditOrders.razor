@@ -1,0 +1,99 @@
+﻿@page "/orders/edit/{Id:guid}"
+
+@using CCUI.Infrastructure
+@rendermode InteractiveServer
+
+@inject OrderService OrderService
+@inject NavigationManager Navigation
+
+<h3>Edit order</h3>
+
+@if (loading)
+{
+    <p>Loading...</p>
+}
+else if (model == null)
+{
+    <p>Order not found.</p>
+}
+else
+{
+    <EditForm Model="model" OnValidSubmit="Save">
+        <DataAnnotationsValidator />
+        <ValidationSummary />
+
+        <div class="mb-3">
+            <label>Address</label>
+            <InputText class="form-control" @bind-Value="model.Address" />
+        </div>
+        <div class="mb-3">
+            <label>Quantity</label>
+            <InputNumber class="form-control" @bind-Value="model.Quantity" />
+        </div>
+
+        <button type="submit" class="btn btn-primary" disabled="@saving">Save</button>
+        <a class="btn btn-secondary" href="orders">Cancel</a>
+    </EditForm>
+
+    @if (error != null)
+    {
+        <p class="text-danger">@error</p>
+    }
+}
+
+@code {
+    [Parameter] public Guid Id { get; set; }
+
+    private EditModel? model;
+    private bool loading = true;
+    private bool saving;
+    private string? error;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            var order = await OrderService.GetByIdAsync(Id);
+            if (order != null)
+                model = new EditModel { Address = order.Address, Quantity = order.Quantity };
+        }
+        catch (HttpRequestException)
+        {
+            // 404 from the API ends up here with GetFromJsonAsync
+            model = null;
+        }
+        finally
+        {
+            loading = false;
+        }
+    }
+
+    private async Task Save()
+    {
+        saving = true;
+        error = null;
+        try
+        {
+            await OrderService.UpdateAsync(Id, new UpdateOrderDto(model!.Address, model.Quantity));
+            Navigation.NavigateTo("orders");
+        }
+        catch (HttpRequestException ex)
+        {
+            error = $"Update failed: {ex.Message}";
+        }
+        finally
+        {
+            saving = false;
+        }
+    }
+
+    // Mutable class for form binding (records are immutable)
+    private class EditModel
+    {
+        [System.ComponentModel.DataAnnotations.Required]
+        public string Address { get; set; } = "";
+
+        [System.ComponentModel.DataAnnotations.Range(1, int.MaxValue)]
+        public int Quantity { get; set; }
+    }
+}

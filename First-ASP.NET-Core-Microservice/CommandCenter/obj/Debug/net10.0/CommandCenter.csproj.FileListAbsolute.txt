@@ -1,0 +1,84 @@
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\bin\Debug\net10.0\appsettings.Development.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\bin\Debug\net10.0\appsettings.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\bin\Debug\net10.0\CommandCenter.staticwebassets.endpoints.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\bin\Debug\net10.0\CommandCenter.exe
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\bin\Debug\net10.0\CommandCenter.deps.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\bin\Debug\net10.0\CommandCenter.runtimeconfig.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\bin\Debug\net10.0\CommandCenter.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\bin\Debug\net10.0\CommandCenter.pdb
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\bin\Debug\net10.0\DnsClient.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\bin\Debug\net10.0\MongoDB.Bson.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\bin\Debug\net10.0\MongoDB.Driver.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\bin\Debug\net10.0\SharpCompress.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\bin\Debug\net10.0\Snappier.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\bin\Debug\net10.0\ZstdSharp.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\obj\Debug\net10.0\CommandCenter.csproj.AssemblyReference.cache
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\obj\Debug\net10.0\CommandCenter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\obj\Debug\net10.0\CommandCenter.AssemblyInfoInputs.cache
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\obj\Debug\net10.0\CommandCenter.AssemblyInfo.cs
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\obj\Debug\net10.0\CommandCenter.csproj.CoreCompileInputs.cache
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\obj\Debug\net10.0\CommandCenter.MvcApplicationPartsAssemblyInfo.cs
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\obj\Debug\net10.0\CommandCenter.MvcApplicationPartsAssemblyInfo.cache
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\obj\Debug\net10.0\scopedcss\bundle\CommandCenter.styles.css
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\obj\Debug\net10.0\staticwebassets.build.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\obj\Debug\net10.0\staticwebassets.development.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\obj\Debug\net10.0\swae.build.ex.cache
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\obj\Debug\net10.0\CommandC.E887E41C.Up2Date
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\obj\Debug\net10.0\CommandCenter.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\obj\Debug\net10.0\refint\CommandCenter.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\obj\Debug\net10.0\CommandCenter.pdb
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\obj\Debug\net10.0\CommandCenter.genruntimeconfig.cache
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\First-ASP.NET-Core-Microservice-main\CommandCenter\obj\Debug\net10.0\ref\CommandCenter.dll
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\bin\Debug\net10.0\appsettings.Development.json
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\bin\Debug\net10.0\appsettings.json
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\bin\Debug\net10.0\CommandCenter.staticwebassets.endpoints.json
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\bin\Debug\net10.0\CommandCenter.exe
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\bin\Debug\net10.0\CommandCenter.deps.json
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\bin\Debug\net10.0\CommandCenter.runtimeconfig.json
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\bin\Debug\net10.0\CommandCenter.dll
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\bin\Debug\net10.0\CommandCenter.pdb
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\bin\Debug\net10.0\DnsClient.dll
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\bin\Debug\net10.0\MongoDB.Bson.dll
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\bin\Debug\net10.0\MongoDB.Driver.dll
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\bin\Debug\net10.0\SharpCompress.dll
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\bin\Debug\net10.0\Snappier.dll
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\bin\Debug\net10.0\ZstdSharp.dll
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\obj\Debug\net10.0\CommandCenter.csproj.AssemblyReference.cache
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\obj\Debug\net10.0\CommandCenter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\obj\Debug\net10.0\CommandCenter.AssemblyInfoInputs.cache
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\obj\Debug\net10.0\CommandCenter.AssemblyInfo.cs
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\obj\Debug\net10.0\CommandCenter.csproj.CoreCompileInputs.cache
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\obj\Debug\net10.0\CommandCenter.MvcApplicationPartsAssemblyInfo.cs
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\obj\Debug\net10.0\CommandCenter.MvcApplicationPartsAssemblyInfo.cache
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\obj\Debug\net10.0\scopedcss\bundle\CommandCenter.styles.css
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\obj\Debug\net10.0\staticwebassets.build.json
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\obj\Debug\net10.0\staticwebassets.development.json
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\obj\Debug\net10.0\swae.build.ex.cache
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\obj\Debug\net10.0\CommandC.E887E41C.Up2Date
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\obj\Debug\net10.0\CommandCenter.dll
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\obj\Debug\net10.0\refint\CommandCenter.dll
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\obj\Debug\net10.0\CommandCenter.pdb
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\obj\Debug\net10.0\CommandCenter.genruntimeconfig.cache
+D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter\obj\Debug\net10.0\ref\CommandCenter.dll

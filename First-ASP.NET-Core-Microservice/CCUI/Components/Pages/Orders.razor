@@ -1,0 +1,69 @@
+﻿@page "/orders"
+@using CCUI.Infrastructure
+@rendermode InteractiveServer
+@inject OrderService OrderService
+
+<h3>Orders</h3>
+
+@if (orders == null)
+{
+    <p>Loading...</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr><th>Address</th><th>Quantity</th><th>Created</th><th></th></tr>
+        </thead>
+        <tbody>
+            @foreach (var o in orders)
+            {
+                <tr>
+                    <td>@o.Address</td>
+                    <td>@o.Quantity</td>
+                    <td>@o.CreatedDate.ToLocalTime()</td>
+                    <td>
+                        <a class="btn btn-primary btn-sm" href="orders/edit/@o.Id">Edit</a>
+                        <button class="btn btn-danger btn-sm" @onclick="() => Delete(o.Id)">Delete</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<h4>New order</h4>
+<EditForm Model="newOrder" OnValidSubmit="Create">
+    <InputText @bind-Value="newOrder.Address" placeholder="Address" />
+    <InputNumber @bind-Value="newOrder.Quantity" />
+    <button type="submit" class="btn btn-primary">Add</button>
+</EditForm>
+
+@code {
+    private List<OrderDto>? orders;
+    private CreateOrder newOrder = new();
+
+    protected override async Task OnInitializedAsync() => await Load();
+
+    private async Task Load() => orders = await OrderService.GetAllAsync();
+
+    private async Task Create()
+    {
+        await OrderService.CreateAsync(new CreateOrderDto(newOrder.Address, newOrder.Quantity));
+        newOrder = new();
+        await Load();
+    }
+
+    private async Task Delete(Guid id)
+    {
+        await OrderService.DeleteAsync(id);
+        await Load();
+    }
+
+    // EditForm needs a mutable class (records are immutable)
+    private class CreateOrder
+    {
+        public string Address { get; set; } = "";
+        public int Quantity { get; set; }
+    }
+}
