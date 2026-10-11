@@ -12,16 +12,18 @@ In this tutorial we will build our first Microservice in ASP.NET Core which will
 4. Creating First ASP.NET Core Microservice
 5. Entities and Data Transfer objects
 6. MongoDB Connection String, Configuration, Repository and Settings
-7. Running MongoDB database from a Docker Container
-8. Creating Web API to Perform CRUD operations
-9. Installing Swagger in ASP.NET Core App
+7. Creating Web API to Perform CRUD operations
+8. Blazor Web APP: User Interface of Microservice
+9. Adding CommandCenter, CCUI, and MongoDB to Docker Compose
+10. Testing Microservices Operations with CCUI (Blazor Web App)
+11. Testing CRUD Operations with Swagger
 10. Create an Order
 11. Get all Orders
 12. Get Order by it’s Id
 13. Update an Order
 14. Delete an Order
 
-Read the entire article here - https://www.hosting.work/aspnet-core-microservice-web-api-crud-mongodb/
+Read the entire article here - https://www.yogihosting.com/aspnet-core-microservice/
 
 ## Want to support me ?
 
