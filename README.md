@@ -23,8 +23,6 @@ In this tutorial we will build our first Microservice in ASP.NET Core which will
 13. Update an Order
 14. Delete an Order
 
-Read the entire article here - https://www.yogihosting.com/aspnet-core-microservice/
-
 ## How to run the app
 
 You need to have Docker installed on your PC. Then in command prompt navigate to the directory of `docker-compose.yml` file and run the following 2 commands:
@@ -38,9 +36,8 @@ Now access the CCUI project on the browser. It’s url being – `https://localh
 
 Also access the Web API with Swagger. It's url being - `https://localhost:8001/swagger`
 
+For any confusion, read the entire article here - https://www.yogihosting.com/aspnet-core-microservice/
 
-https://localhost:9001/
-https://localhost:8001/swagger/index.html
 
 ## Want to support me ?
 
