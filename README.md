@@ -31,12 +31,23 @@ You need to have Docker installed on your PC. Then in command prompt navigate to
 
 ```
 docker-compose build
+```
+
+<img src="https://www.yogihosting.com/wp-content/uploads/2026/10/docker-compose-build.png" alt="Docker Compose Build command" title="Docker Compose Build command" class="img-fluid">
+
+```
 docker-compose up -d
 ```
 
+<img src="https://www.yogihosting.com/wp-content/uploads/2026/10/docker-compose-up.png" alt="Docker Compose Up Command" title="Docker Compose Up Command" class="img-fluid">
+
 Now access the CCUI project on the browser. It’s url being – `https://localhost:9001/`
 
+<img src="https://www.yogihosting.com/wp-content/uploads/2026/10/create-order-ccui.png" alt="Create Order CCUI" title="Create Order CCUI" class="img-fluid">
+
 Also access the Web API with Swagger. It's url being - `https://localhost:8001/swagger`
+
+<img src="https://www.yogihosting.com/wp-content/uploads/2026/10/swagger.png" alt="Swagger" title="Swagger" class="img-fluid">
 
 For any confusion, read the entire article here - https://www.yogihosting.com/aspnet-core-microservice/
 
