@@ -1,25 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Yogesh\\SEO\\Yogihosting\\new\\First Microservice\\First-ASP.NET-Core-Microservice\\",
+  "WorkspaceRootPath": "C:\\Users\\Avita\\Documents\\GitHub\\First-ASP.NET-Core-Microservice\\First-ASP.NET-Core-Microservice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|d:\\yogesh\\seo\\yogihosting\\new\\first microservice\\first-asp.net-core-microservice\\docker-compose.override.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "AbsoluteMoniker": "D:0:0:{59C88692-126B-42E9-AF11-3A708F083CC5}|CCUI\\CCUI.csproj|c:\\users\\avita\\documents\\github\\first-asp.net-core-microservice\\first-asp.net-core-microservice\\ccui\\components\\pages\\orders.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59C88692-126B-42E9-AF11-3A708F083CC5}|CCUI\\CCUI.csproj|solutionrelative:ccui\\components\\pages\\orders.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\avita\\documents\\github\\first-asp.net-core-microservice\\first-asp.net-core-microservice\\docker-compose.override.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
       "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|d:\\yogesh\\seo\\yogihosting\\new\\first microservice\\first-asp.net-core-microservice\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\avita\\documents\\github\\first-asp.net-core-microservice\\first-asp.net-core-microservice\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
       "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD7A1FC6-17A7-FFBA-5D95-C8C03B236D2E}|CommandCenter\\CommandCenter.csproj|d:\\yogesh\\seo\\yogihosting\\new\\first microservice\\first-asp.net-core-microservice\\commandcenter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CD7A1FC6-17A7-FFBA-5D95-C8C03B236D2E}|CommandCenter\\CommandCenter.csproj|c:\\users\\avita\\documents\\github\\first-asp.net-core-microservice\\first-asp.net-core-microservice\\commandcenter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD7A1FC6-17A7-FFBA-5D95-C8C03B236D2E}|CommandCenter\\CommandCenter.csproj|solutionrelative:commandcenter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59C88692-126B-42E9-AF11-3A708F083CC5}|CCUI\\CCUI.csproj|d:\\yogesh\\seo\\yogihosting\\new\\first microservice\\first-asp.net-core-microservice\\ccui\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{59C88692-126B-42E9-AF11-3A708F083CC5}|CCUI\\CCUI.csproj|c:\\users\\avita\\documents\\github\\first-asp.net-core-microservice\\first-asp.net-core-microservice\\ccui\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{59C88692-126B-42E9-AF11-3A708F083CC5}|CCUI\\CCUI.csproj|solutionrelative:ccui\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD7A1FC6-17A7-FFBA-5D95-C8C03B236D2E}|CommandCenter\\CommandCenter.csproj|d:\\yogesh\\seo\\yogihosting\\new\\first microservice\\first-asp.net-core-microservice\\commandcenter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{CD7A1FC6-17A7-FFBA-5D95-C8C03B236D2E}|CommandCenter\\CommandCenter.csproj|c:\\users\\avita\\documents\\github\\first-asp.net-core-microservice\\first-asp.net-core-microservice\\commandcenter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{CD7A1FC6-17A7-FFBA-5D95-C8C03B236D2E}|CommandCenter\\CommandCenter.csproj|solutionrelative:commandcenter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,37 +94,48 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Orders.razor",
+              "DocumentMoniker": "C:\\Users\\Avita\\Documents\\GitHub\\First-ASP.NET-Core-Microservice\\First-ASP.NET-Core-Microservice\\CCUI\\Components\\Pages\\Orders.razor",
+              "RelativeDocumentMoniker": "CCUI\\Components\\Pages\\Orders.razor",
+              "ToolTip": "C:\\Users\\Avita\\Documents\\GitHub\\First-ASP.NET-Core-Microservice\\First-ASP.NET-Core-Microservice\\CCUI\\Components\\Pages\\Orders.razor",
+              "RelativeToolTip": "CCUI\\Components\\Pages\\Orders.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-13T15:39:42.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\First Microservice\\First-ASP.NET-Core-Microservice\\CommandCenter\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Avita\\Documents\\GitHub\\First-ASP.NET-Core-Microservice\\First-ASP.NET-Core-Microservice\\CommandCenter\\Program.cs",
               "RelativeDocumentMoniker": "CommandCenter\\Program.cs",
-              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\First Microservice\\First-ASP.NET-Core-Microservice\\CommandCenter\\Program.cs",
+              "ToolTip": "C:\\Users\\Avita\\Documents\\GitHub\\First-ASP.NET-Core-Microservice\\First-ASP.NET-Core-Microservice\\CommandCenter\\Program.cs",
               "RelativeToolTip": "CommandCenter\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-10T18:18:57.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-10T18:18:57.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\Avita\\Documents\\GitHub\\First-ASP.NET-Core-Microservice\\First-ASP.NET-Core-Microservice\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\Avita\\Documents\\GitHub\\First-ASP.NET-Core-Microservice\\First-ASP.NET-Core-Microservice\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-10-04T12:24:10.724Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\First Microservice\\First-ASP.NET-Core-Microservice\\docker-compose.yml",
-              "RelativeDocumentMoniker": "docker-compose.yml",
-              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\First Microservice\\First-ASP.NET-Core-Microservice\\docker-compose.yml",
-              "RelativeToolTip": "docker-compose.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2026-10-04T12:24:10.724Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "docker-compose.override.yml",
-              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\First Microservice\\First-ASP.NET-Core-Microservice\\docker-compose.override.yml",
+              "DocumentMoniker": "C:\\Users\\Avita\\Documents\\GitHub\\First-ASP.NET-Core-Microservice\\First-ASP.NET-Core-Microservice\\docker-compose.override.yml",
               "RelativeDocumentMoniker": "docker-compose.override.yml",
-              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\First Microservice\\First-ASP.NET-Core-Microservice\\docker-compose.override.yml",
+              "ToolTip": "C:\\Users\\Avita\\Documents\\GitHub\\First-ASP.NET-Core-Microservice\\First-ASP.NET-Core-Microservice\\docker-compose.override.yml",
               "RelativeToolTip": "docker-compose.override.yml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
@@ -129,11 +144,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "NavMenu.razor",
-              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\First Microservice\\First-ASP.NET-Core-Microservice\\CCUI\\Components\\Layout\\NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Avita\\Documents\\GitHub\\First-ASP.NET-Core-Microservice\\First-ASP.NET-Core-Microservice\\CCUI\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "CCUI\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\First Microservice\\First-ASP.NET-Core-Microservice\\CCUI\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Avita\\Documents\\GitHub\\First-ASP.NET-Core-Microservice\\First-ASP.NET-Core-Microservice\\CCUI\\Components\\Layout\\NavMenu.razor",
               "RelativeToolTip": "CCUI\\Components\\Layout\\NavMenu.razor",
               "ViewState": "AgIAAAYAAAAAAAAAAAAiwB8AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -141,11 +156,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\First Microservice\\First-ASP.NET-Core-Microservice\\CommandCenter\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Avita\\Documents\\GitHub\\First-ASP.NET-Core-Microservice\\First-ASP.NET-Core-Microservice\\CommandCenter\\appsettings.json",
               "RelativeDocumentMoniker": "CommandCenter\\appsettings.json",
-              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\First Microservice\\First-ASP.NET-Core-Microservice\\CommandCenter\\appsettings.json",
+              "ToolTip": "C:\\Users\\Avita\\Documents\\GitHub\\First-ASP.NET-Core-Microservice\\First-ASP.NET-Core-Microservice\\CommandCenter\\appsettings.json",
               "RelativeToolTip": "CommandCenter\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",

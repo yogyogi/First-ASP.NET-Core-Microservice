@@ -3,9 +3,6 @@
   "WorkspaceRootPath": "D:\\Yogesh\\SEO\\Yogihosting\\new\\First Microservice\\First-ASP.NET-Core-Microservice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|d:\\yogesh\\seo\\yogihosting\\new\\first microservice\\first-asp.net-core-microservice\\docker-compose.override.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
       "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
     },
@@ -33,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -93,18 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
-              "ViewState": "AgIAAL0BAAAAAAAAAAASwM0BAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2026-10-11T12:02:01.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\First Microservice\\First-ASP.NET-Core-Microservice\\CommandCenter\\Program.cs",
               "RelativeDocumentMoniker": "CommandCenter\\Program.cs",
@@ -117,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\First Microservice\\First-ASP.NET-Core-Microservice\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose.yml",
@@ -130,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "docker-compose.override.yml",
               "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\First Microservice\\First-ASP.NET-Core-Microservice\\docker-compose.override.yml",
               "RelativeDocumentMoniker": "docker-compose.override.yml",
@@ -143,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\First Microservice\\First-ASP.NET-Core-Microservice\\CCUI\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "CCUI\\Components\\Layout\\NavMenu.razor",
@@ -155,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\First Microservice\\First-ASP.NET-Core-Microservice\\CommandCenter\\appsettings.json",
               "RelativeDocumentMoniker": "CommandCenter\\appsettings.json",

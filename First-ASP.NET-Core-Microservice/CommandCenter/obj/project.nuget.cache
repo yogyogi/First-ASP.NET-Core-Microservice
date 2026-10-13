@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cfroFm1M1g8=",
+  "dgSpecHash": "QVlZuZIGIN4=",
   "success": true,
-  "projectFilePath": "D:\\Yogesh\\SEO\\Yogihosting\\new\\First Microservice\\First-ASP.NET-Core-Microservice\\CommandCenter\\CommandCenter.csproj",
+  "projectFilePath": "C:\\Users\\Avita\\Documents\\GitHub\\First-ASP.NET-Core-Microservice\\First-ASP.NET-Core-Microservice\\CommandCenter\\CommandCenter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Avita\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\Avita\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",

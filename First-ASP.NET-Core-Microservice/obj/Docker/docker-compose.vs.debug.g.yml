@@ -14,8 +14,8 @@ services:
       - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
       - NUGET_FALLBACK_PACKAGES=/.nuget/fallbackpackages
     volumes:
-      - D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CCUI:/app:rw
-      - D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice:/src:rw
+      - C:\Users\Avita\Documents\GitHub\First-ASP.NET-Core-Microservice\First-ASP.NET-Core-Microservice\CCUI:/app:rw
+      - C:\Users\Avita\Documents\GitHub\First-ASP.NET-Core-Microservice\First-ASP.NET-Core-Microservice:/src:rw
       - C:\Users\Avita\vsdbg\vs2017u5:/remote_debugger:rw
       - C:\Users\Avita\.nuget\packages:/.nuget/packages:ro
       - C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages:/.nuget/fallbackpackages:ro
@@ -48,8 +48,8 @@ services:
       - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
       - NUGET_FALLBACK_PACKAGES=/.nuget/fallbackpackages
     volumes:
-      - D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice\CommandCenter:/app:rw
-      - D:\Yogesh\SEO\Yogihosting\new\First Microservice\First-ASP.NET-Core-Microservice:/src:rw
+      - C:\Users\Avita\Documents\GitHub\First-ASP.NET-Core-Microservice\First-ASP.NET-Core-Microservice\CommandCenter:/app:rw
+      - C:\Users\Avita\Documents\GitHub\First-ASP.NET-Core-Microservice\First-ASP.NET-Core-Microservice:/src:rw
       - C:\Users\Avita\vsdbg\vs2017u5:/remote_debugger:rw
       - C:\Users\Avita\.nuget\packages:/.nuget/packages:ro
       - C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages:/.nuget/fallbackpackages:ro

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Yogesh\\SEO\\Yogihosting\\new\\First Microservice\\First-ASP.NET-Core-Microservice\\CommandCenter\\CommandCenter.csproj": {}
+    "C:\\Users\\Avita\\Documents\\GitHub\\First-ASP.NET-Core-Microservice\\First-ASP.NET-Core-Microservice\\CommandCenter\\CommandCenter.csproj": {}
   },
   "projects": {
-    "D:\\Yogesh\\SEO\\Yogihosting\\new\\First Microservice\\First-ASP.NET-Core-Microservice\\CommandCenter\\CommandCenter.csproj": {
+    "C:\\Users\\Avita\\Documents\\GitHub\\First-ASP.NET-Core-Microservice\\First-ASP.NET-Core-Microservice\\CommandCenter\\CommandCenter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Yogesh\\SEO\\Yogihosting\\new\\First Microservice\\First-ASP.NET-Core-Microservice\\CommandCenter\\CommandCenter.csproj",
+        "projectUniqueName": "C:\\Users\\Avita\\Documents\\GitHub\\First-ASP.NET-Core-Microservice\\First-ASP.NET-Core-Microservice\\CommandCenter\\CommandCenter.csproj",
         "projectName": "CommandCenter",
-        "projectPath": "D:\\Yogesh\\SEO\\Yogihosting\\new\\First Microservice\\First-ASP.NET-Core-Microservice\\CommandCenter\\CommandCenter.csproj",
+        "projectPath": "C:\\Users\\Avita\\Documents\\GitHub\\First-ASP.NET-Core-Microservice\\First-ASP.NET-Core-Microservice\\CommandCenter\\CommandCenter.csproj",
         "packagesPath": "C:\\Users\\Avita\\.nuget\\packages\\",
-        "outputPath": "D:\\Yogesh\\SEO\\Yogihosting\\new\\First Microservice\\First-ASP.NET-Core-Microservice\\CommandCenter\\obj\\",
+        "outputPath": "C:\\Users\\Avita\\Documents\\GitHub\\First-ASP.NET-Core-Microservice\\First-ASP.NET-Core-Microservice\\CommandCenter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

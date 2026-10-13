@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CCUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4dccd10103a03baea38fef7070f2ca26a30ba29d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CCUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CCUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

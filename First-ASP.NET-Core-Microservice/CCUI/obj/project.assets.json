@@ -139,11 +139,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Yogesh\\SEO\\Yogihosting\\new\\First Microservice\\First-ASP.NET-Core-Microservice\\CCUI\\CCUI.csproj",
+      "projectUniqueName": "C:\\Users\\Avita\\Documents\\GitHub\\First-ASP.NET-Core-Microservice\\First-ASP.NET-Core-Microservice\\CCUI\\CCUI.csproj",
       "projectName": "CCUI",
-      "projectPath": "D:\\Yogesh\\SEO\\Yogihosting\\new\\First Microservice\\First-ASP.NET-Core-Microservice\\CCUI\\CCUI.csproj",
+      "projectPath": "C:\\Users\\Avita\\Documents\\GitHub\\First-ASP.NET-Core-Microservice\\First-ASP.NET-Core-Microservice\\CCUI\\CCUI.csproj",
       "packagesPath": "C:\\Users\\Avita\\.nuget\\packages\\",
-      "outputPath": "D:\\Yogesh\\SEO\\Yogihosting\\new\\First Microservice\\First-ASP.NET-Core-Microservice\\CCUI\\obj\\",
+      "outputPath": "C:\\Users\\Avita\\Documents\\GitHub\\First-ASP.NET-Core-Microservice\\First-ASP.NET-Core-Microservice\\CCUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

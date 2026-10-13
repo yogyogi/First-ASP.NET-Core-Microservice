@@ -13,12 +13,13 @@ else
 {
     <table class="table">
         <thead>
-            <tr><th>Address</th><th>Quantity</th><th>Created</th><th></th></tr>
+            <tr><th>Id</th><th>Address</th><th>Quantity</th><th>Created</th><th></th></tr>
         </thead>
         <tbody>
             @foreach (var o in orders)
             {
                 <tr>
+                    <td>@o.Id</td>
                     <td>@o.Address</td>
                     <td>@o.Quantity</td>
                     <td>@o.CreatedDate.ToLocalTime()</td>
